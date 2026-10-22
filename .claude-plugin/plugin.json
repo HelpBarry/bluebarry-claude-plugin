@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bluebarry",
+  "displayName": "bluebarry",
+  "version": "1.0.0",
+  "description": "Build and run your online store's product quizzes, on-site search, popups, collection pages and recommendations on its real catalog, report how they perform, and publish with your approval.",
+  "author": {
+    "name": "Bluebarry AI",
+    "email": "support@bluebarry.ai",
+    "url": "https://bluebarry.ai"
+  },
+  "homepage": "https://bluebarry.ai",
+  "license": "MIT",
+  "keywords": ["ecommerce", "shopify", "woocommerce", "magento", "product quiz", "site search", "popups", "merchandising", "analytics"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://bluebarry.ai/help/integrations-automation/connect-bluebarry-mcp-to-claude",
+  "supportUrl": "https://bluebarry.ai/contact",
+  "privacyPolicyUrl": "https://bluebarry.ai/privacy-policy#ai-assistants",
+  "termsOfServiceUrl": "https://bluebarry.ai/terms-and-conditions"
+}

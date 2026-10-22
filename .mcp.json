@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bluebarry": {
+      "type": "http",
+      "url": "https://mcp.bluebarry.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "bluebarry",
+  "description": "bluebarry's plugin for Claude: product quizzes, on-site search, popups, collection pages and recommendations for your online store.",
+  "owner": {
+    "name": "Bluebarry AI",
+    "email": "support@bluebarry.ai"
+  },
+  "plugins": [
+    {
+      "name": "bluebarry",
+      "source": "./",
+      "description": "Build and run your online store's product quizzes, on-site search, popups, collection pages and recommendations, and report how they perform."
+    }
+  ]
+}
