@@ -10,8 +10,19 @@
     "url": "https://bluebarry.ai"
   },
   "homepage": "https://bluebarry.ai",
+  "repository": "https://github.com/HelpBarry/bluebarry-claude-plugin",
   "license": "MIT",
-  "keywords": ["ecommerce", "shopify", "woocommerce", "magento", "product quiz", "site search", "popups", "merchandising", "analytics"],
+  "keywords": [
+    "ecommerce",
+    "shopify",
+    "woocommerce",
+    "magento",
+    "product quiz",
+    "site search",
+    "popups",
+    "merchandising",
+    "analytics"
+  ],
   "icon": "./assets/logo.png",
   "documentationUrl": "https://bluebarry.ai/help/integrations-automation/connect-bluebarry-mcp-to-claude",
   "supportUrl": "https://bluebarry.ai/contact",
